@@ -4,3 +4,4 @@ python-telegram-bot
 
 python-dotenv==1.0.0
 prettytable==3.9.0
+flask
